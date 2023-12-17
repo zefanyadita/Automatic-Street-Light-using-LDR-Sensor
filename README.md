@@ -18,7 +18,7 @@
 - Battery
 - Breadboard
   
-## The Hardwarer Design
+## The Hardware Design
 ![My Image](1.png)
 
 
